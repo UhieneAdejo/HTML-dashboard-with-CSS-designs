@@ -1,1 +1,5 @@
-The designed homepage can be found in index.html while the CSS design  can be found in index.css
+# The Output
+
+![Alt text](image.png.png)
+
+This was done as part of my internship, training others in web-development
